@@ -2,14 +2,18 @@
 
 本專案是一個專門為 **LLM 檢索增強（RAG）**、**提示工程（Prompt Engineering）** 與 **音樂科普教學** 設計的結構化音樂知識庫，並附帶一個現代化、互動式的 **HTML 簡報 (Slide Deck)**。
 
+🌐 **線上簡報直接瀏覽（無子路徑）**：
+👉 **https://411335070.github.io/music-llm-wiki/**
+
 ---
 
 ## 📁 專案目錄結構
 
 ```text
 music-llm-wiki/
+├── index.html                   # 根目錄首頁簡報 (直接存取無路徑：https://411335070.github.io/music-llm-wiki/)
 ├── presentation/
-│   └── index.html               # 現代化互動簡報 (支援鍵盤導航、全螢幕、Web Audio 試聽)
+│   └── index.html               # 簡報備用路徑 (相容既有連結)
 ├── wiki/
 │   ├── index.md                 # Wiki 總目錄、本體論規範與演化圖譜
 │   ├── 01_classical.md          # 01 古典音樂 (Classical Music)
