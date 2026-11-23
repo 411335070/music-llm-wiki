@@ -1,0 +1,170 @@
+[
+  {
+    "id": "classical",
+    "number": "01",
+    "nameZh": "古典音樂",
+    "nameEn": "Classical Music",
+    "era": "16世紀末 - 19世紀初",
+    "region": "歐洲 (德奧、義大利、法國)",
+    "bpm": "40 - 180 (動態 Rubato)",
+    "color": "#8b5cf6",
+    "gradient": "linear-gradient(135deg, #4c1d95 0%, #7c3aed 100%)",
+    "icon": "🎻",
+    "vibe": "莊嚴優雅 • 複雜和聲 • 管弦交響",
+    "summary": "植根於西方傳統藝術音樂體系，具備極度嚴謹的記譜法、樂理曲式架構與寬廣宏大的動態張力，是現代西方音樂理論的基石。",
+    "instruments": ["小提琴/大提琴", "長笛/雙簧管", "法國號/小號", "鋼琴/大鍵琴", "定音鼓"],
+    "characteristics": [
+      "嚴謹的曲式架構 (奏鳴曲式、賦格、變奏曲)",
+      "極具表現力的速度變化 (Tempo Rubato) 與動態幅值 (pp 到 ff)",
+      "以大小調功能和聲與對位法為核心",
+      "全管弦樂團編制協作"
+    ],
+    "subgenres": ["巴洛克時期 (Baroque)", "古典主義時期 (Classical)", "浪漫主義時期 (Romantic)", "現代古典 (Contemporary)"],
+    "artists": [
+      { "name": "巴哈 (J.S. Bach)", "work": "《無伴奏大提琴組曲》、《十二平均律》" },
+      { "name": "莫札特 (W.A. Mozart)", "work": "《第40號交響曲》、《安魂曲》" },
+      { "name": "貝多芬 (L. van Beethoven)", "work": "《命運交響曲》、《月光奏鳴曲》" }
+    ],
+    "impact": "奠定現代電影配樂（如星際大戰、魔戒）與交響金屬的和聲思維，亦是當代 AI 結構化作曲的理論源頭。"
+  },
+  {
+    "id": "jazz",
+    "number": "02",
+    "nameZh": "爵士樂",
+    "nameEn": "Jazz",
+    "era": "20世紀初 (1910s-1920s)",
+    "region": "美國路易斯安那州紐奧良",
+    "bpm": "60 - 260 (Swing 搖擺律動)",
+    "color": "#f59e0b",
+    "gradient": "linear-gradient(135deg, #78350f 0%, #d97706 100%)",
+    "icon": "🎷",
+    "vibe": "隨興即興 • 搖擺切分 • 都會慵懶",
+    "summary": "源於非裔美國人社群，融合非洲傳統節奏與歐洲和聲，以即興演奏（Improvisation）與搖擺感（Swing）為靈魂，象徵著自由與對話。",
+    "instruments": ["次中音/中音薩克斯風", "小號/長號", "低音提琴 (走動低音)", "爵士鼓組", "鋼琴"],
+    "characteristics": [
+      "標誌性的即興演奏 (Improvisation) 與樂器對答",
+      "強烈的三連音搖擺切分感 (Swing Feel)",
+      "藍調音階 (Blue Notes) 與延伸七/九和弦運用",
+      "走動低音 (Walking Bass) 與擬聲唱法 (Scat Singing)"
+    ],
+    "subgenres": ["紐奧良迪克西蘭 (Dixieland)", "搖擺樂大樂團 (Swing)", "咆哮樂 (Bebop)", "酷派爵士 (Cool Jazz)", "融合爵士 (Fusion)"],
+    "artists": [
+      { "name": "路易斯·阿姆斯壯 (Louis Armstrong)", "work": "《What a Wonderful World》" },
+      { "name": "邁爾士·戴維斯 (Miles Davis)", "work": "《Kind of Blue》(模態爵士經典)" },
+      { "name": "約翰·柯川 (John Coltrane)", "work": "《A Love Supreme》、《Giant Steps》" }
+    ],
+    "impact": "推動美國平權運動與夜店文化，深遠啟發現代 Lo-Fi Hip-Hop、City Pop、流行樂和弦配置與影視浪漫氛圍。"
+  },
+  {
+    "id": "rock",
+    "number": "03",
+    "nameZh": "搖滾樂",
+    "nameEn": "Rock Music",
+    "era": "1940年代末 - 1950年代",
+    "region": "美國 / 英國 (英倫入侵)",
+    "bpm": "90 - 160 (強勁衝擊力)",
+    "color": "#ef4444",
+    "gradient": "linear-gradient(135deg, #7f1d1d 0%, #dc2626 100%)",
+    "icon": "🎸",
+    "vibe": "熱血反叛 • 電吉他破音 • 現場爆發",
+    "summary": "融合藍調、鄉村與節奏藍調，以破音電吉他與四拍重音後拍為標誌，是20世紀最具反抗叛逆精神與社會動能的文化符號。",
+    "instruments": ["電吉他 (Overdrive/Distortion)", "電貝斯", "爵士鼓 (重音後拍)", "主唱聲線", "鍵盤/合成器"],
+    "characteristics": [
+      "4/4 拍中第2拍與第4拍的強烈重音 (Backbeat)",
+      "強勁吉他 Riff 與標誌性吉他獨奏 (Solo)",
+      "高亢吶喊、沙啞嘶吼的真實宣洩唱腔",
+      "反權威、倡導和平或個人內省的主題歌詞"
+    ],
+    "subgenres": ["早期搖滾 (Rock & Roll)", "迷幻與前衛搖滾 (Prog Rock)", "硬式搖滾與重金屬 (Heavy Metal)", "龐克搖滾 (Punk)", "油漬搖滾 (Grunge)"],
+    "artists": [
+      { "name": "披頭四樂團 (The Beatles)", "work": "《Abbey Road》、《Let It Be》" },
+      { "name": "皇后合唱團 (Queen)", "work": "《Bohemian Rhapsody》" },
+      { "name": "超脫樂團 (Nirvana)", "work": "《Smells Like Teen Spirit》" }
+    ],
+    "impact": "催生胡士托音樂節、MTV 黃金世代、皮衣牛仔搖滾美學，至今仍是青年文化中追求真誠與反抗建制的最強象徵。"
+  },
+  {
+    "id": "hiphop",
+    "number": "04",
+    "nameZh": "嘻哈音樂",
+    "nameEn": "Hip-Hop",
+    "era": "1973年",
+    "region": "美國紐約南布朗克斯區",
+    "bpm": "75 - 100 (Boom Bap) / 130 - 150 (Trap)",
+    "color": "#10b981",
+    "gradient": "linear-gradient(135deg, #064e3b 0%, #059669 100%)",
+    "icon": "🎤",
+    "vibe": "押韻節奏 • 808重低音 • 街頭態度",
+    "summary": "起源於街頭派對，結合說唱、DJ、街舞與塗鴉四大元素。以獨特 Flow 押韻技巧、黑膠取樣與震撼 808 重低音席捲全球流行頂峰。",
+    "instruments": ["Roland TR-808 節奏機", "黑膠唱盤 (Scratching/Sampling)", "數位取樣器 (MPC)", "人聲饒舌 (MC)"],
+    "characteristics": [
+      "複雜而富有節奏感的說唱韻腳與 Flow 變換",
+      "取樣 (Sampling) 放克、靈魂樂黑膠的經典旋律與鼓點",
+      "震撼下潛的 808 次低音 (Sub-bass)",
+      "聚焦街頭生活、社會公平與個人奮鬥的敘事歌詞"
+    ],
+    "subgenres": ["老學校黃金年代 (Golden Age)", "西岸 G-Funk", "東岸 Boom Bap", "南方陷阱音樂 (Trap)", "旋律情緒說唱 (Melodic/Emo)"],
+    "artists": [
+      { "name": "圖派克·夏庫爾 (2Pac)", "work": "《Changes》、《California Love》" },
+      { "name": "阿姆 (Eminem)", "work": "《Lose Yourself》" },
+      { "name": "肯德里克·拉馬爾 (Kendrick Lamar)", "work": "《To Pimp a Butterfly》(普立茲獎得主)" }
+    ],
+    "impact": "當前全球串流時代最具統治力之主流門類，定義了現代街頭潮流穿搭、青年俚語與數位音樂製作流程。"
+  },
+  {
+    "id": "electronic",
+    "number": "05",
+    "nameZh": "電子音樂",
+    "nameEn": "Electronic / EDM",
+    "era": "1970年代末 - 1980年代",
+    "region": "德國、美國芝加哥/底特律、英國",
+    "bpm": "120 - 150 (黃金 128 BPM)",
+    "color": "#06b6d4",
+    "gradient": "linear-gradient(135deg, #164e63 0%, #0891b2 100%)",
+    "icon": "🎛️",
+    "vibe": "合成聲浪 • 四拍重擊 • 能量爆發",
+    "summary": "以合成器、電腦音效與數位混音為核心，透過精準的四拍重擊與 Tension-Release (Build-up & Drop) 架構，引爆無與倫比的派對狂歡。",
+    "instruments": ["類比/數位合成器 (Lead/Bass Synth)", "節奏鼓機 (TR-909)", "數位混音台 (Pioneer DJ)", "DAW 音訊工作站"],
+    "characteristics": [
+      "四拍正拍重擊 (Four-on-the-Floor) 律動推進",
+      "精妙的能量層遞堆疊 (Build-up) 與極致爆發 (The Drop)",
+      "側鏈壓縮 (Sidechain Compression) 創造的節奏呼吸感",
+      "純粹聲響設計 (Sound Design) 與低通濾波掃頻 (Filter Sweeps)"
+    ],
+    "subgenres": ["浩室 (House)", "鐵克諾 (Techno)", "出神音樂 (Trance)", "迴響貝斯 (Dubstep)", "流行進步浩室 (Progressive EDM)"],
+    "artists": [
+      { "name": "傻瓜龐克 (Daft Punk)", "work": "《One More Time》、《Get Lucky》" },
+      { "name": "艾維奇 (Avicii)", "work": "《Wake Me Up》、《Levels》" },
+      { "name": "發電廠樂團 (Kraftwerk)", "work": "《Autobahn》(電子樂始祖)" }
+    ],
+    "impact": "開創世界級百萬人戶外音樂節 (Tomorrowland, Ultra) 經濟體，重塑賽博龐克遊戲美學與現代流行混音思維。"
+  },
+  {
+    "id": "rnb_soul",
+    "number": "06",
+    "nameZh": "節奏藍調與靈魂樂",
+    "nameEn": "R&B & Soul",
+    "era": "1940年代末 - 1960年代",
+    "region": "美國底特律 (摩城唱片)、曼菲斯、芝加哥",
+    "bpm": "65 - 110 (感性溫暖律動)",
+    "color": "#ec4899",
+    "gradient": "linear-gradient(135deg, #831843 0%, #db2777 100%)",
+    "icon": "🎙️",
+    "vibe": "深情轉音 • 福音和聲 • 黏滯律動",
+    "summary": "根植於福音音樂與藍調，以極致動人的轉音（Melisma）、溫暖的電鋼琴音色與深邃的情感共鳴為特質，是現代流行歌唱的靈魂母體。",
+    "instruments": ["電鋼琴 (Rhodes/Wurlitzer)", "靈魂管樂組 (Horn Section)", "黏滯低音貝斯 (Pocket Bass)", "福音合音班底"],
+    "characteristics": [
+      "極高難度的一字多音華麗轉音 (Melisma / Vocal Runs)",
+      "主唱與合音的福音式呼應對答 (Call and Response)",
+      "溫暖圓潤的和弦編制 (降九和弦、增減小三和弦)",
+      "強調人性感同身受、深層情感共鳴與靈魂抒發"
+    ],
+    "subgenres": ["摩城經典靈魂 (Motown)", "南方深情靈魂 (Southern Soul)", "當代節奏藍調 (Contemporary R&B)", "新靈魂樂 (Neo-Soul)"],
+    "artists": [
+      { "name": "艾瑞莎·弗蘭克林 (Aretha Franklin)", "work": "《Respect》(靈魂樂女王)" },
+      { "name": "史提夫·汪達 (Stevie Wonder)", "work": "《Superstition》、《Isn't She Lovely》" },
+      { "name": "碧昂絲 (Beyoncé)", "work": "《Halo》、《Crazy in Love》" }
+    ],
+    "impact": "定義現代流行音樂演唱標準，摩城唱片更是打破種族偏見的文化里程碑，深深滋養了 Neo-Soul 與當代流行唱腔。"
+  }
+]
